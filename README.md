@@ -8,6 +8,11 @@ Docstring grammar checks
 
 Checking grammar of the docstring.
 
+## Demo
+
+![DEmo Extension working](https://user-images.githubusercontent.com/53336715/85946123-bd77d400-b95f-11ea-861f-86f8aca66d64.png)
+
+
 ## Install
 
 ### API key
